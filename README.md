@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @GuoXiaoWeiY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Wei Guo 👋
 
-<!---
-GuoXiaoWeiY/GuoXiaoWeiY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Independent developer building tools for freelancers and remote workers.
+
+- 🔨 Current project: [ProofLetter](https://incomeproof.co) - instant, verifiable proof of income letters for freelancers, contractors, and remote workers. Ready in minutes, accepted by landlords, banks, and visa applications.
+- 🌱 Interested in: AI applications, indie hacking, document automation
+- 📫 Reach me: blusguo@gmail.com
